@@ -89,7 +89,7 @@
 			"type": "string"
 		}, {
 			"description": "Subnet Name",
-			"default" : "default-us-east-1a",
+			"default" : "test_projectq2",
 			"hidden": false,
 			"immutable": false,
 			"label": "Subnet Name",
